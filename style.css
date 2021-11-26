@@ -6,6 +6,10 @@
 }
 #myCanvas
 {
-   
+   border-width: 10px;
+   background-color:aliceblue;
+   border-style: ridge;
+   border-color: violet;
 }
+
 
